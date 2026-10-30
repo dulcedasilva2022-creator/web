@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 Disallow: /enquiry.html
+Sitemap: https://webdulce.netlify.app/sitemap.xml
 
-Sitemap: https://clarity-health-clinic.netlify.app/sitemap.xml
